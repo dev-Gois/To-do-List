@@ -1,8 +1,13 @@
-# To-do-List
-a simple to-do list using Javascript
+# 📋 To-do-List
 
-// PT - BR
+Uma aplicação para listagem de tarefas simples!
 
-Uma simples lista de afazeres usando Javascript
+## 🛠 Funcionalidade:
 
-https://dev-gois.github.io/To-do-List/listaTarefas.html
+- Criar tarefas básicas
+
+## 💻 Tecnologias:
+
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+/ Não foi utilizado nenhum framework, apenas JS, HTML e CSS
